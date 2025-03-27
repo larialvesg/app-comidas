@@ -52,7 +52,7 @@ class HomePage extends StatelessWidget {
                   label: 'Ice Cream',
                   page: const IceCreamPage(),
                   gradient: const LinearGradient(
-                    colors: [Color(0xFFFFC1C1), Color(0xFFFF7F7F)],
+                    colors:[Color(0xFF4227A8), Color(0xFF00A0EF), Color(0xFF6FF9E7)],
                   ),
                 ),
               ],
@@ -63,7 +63,7 @@ class HomePage extends StatelessWidget {
               label: 'Donut',
               page: const DonutPage(),
               gradient: const LinearGradient(
-                colors: [Color(0xFF4227A8), Color(0xFF00A0EF), Color(0xFF6FF9E7)],
+                colors: [Color(0xFFFFC1C1), Color(0xFFFF7F7F)],
               ),
             ),
           ],
